@@ -1,2 +1,2 @@
 # json-api
-person details
+person details in json format to use for any project
